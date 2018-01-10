@@ -1,0 +1,10 @@
+station time
+euston station 9
+warren street 18
+oxford street 15
+green park 19
+victoria 12
+pimlico 18
+vauxhall 21
+stockwell 16
+brixton 0
